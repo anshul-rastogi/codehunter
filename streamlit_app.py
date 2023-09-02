@@ -11,6 +11,9 @@ chart_data = pd.DataFrame(
     np.random.randn(20,3), columns=["a", "b", "c"]
 )
 
+x = st.slider('x')
+st.write(x, 'squared is', x * x)
+
 map_data = pd.DataFrame(
     np.random.randn(1000,2) /[50, 50] + [37.76, -122.4],
     columns=['lat', 'lon']
