@@ -1,0 +1,5 @@
+﻿CompanyCode,PersonExternalID,TimeSheetDate,RecordedHours,StartTime,EndTime,ActivityType,WBSElement,WorkItem,TimeSheetNote,BillingControlCategory,PurchaseOrder,PurchaseOrderItem,TimeSheetWrkLocCode,TimeSheetOvertimeCategory,TimeSheetRecord
+IN10,3153727,27/10/20,7,11:00:00,18:00:00,BILLCODE000,I001000700000752.1.1,,React learning,UnBilled Work,,,,,
+IN10,3153727,28/10/20,3,15:00:00,18:00:00,BILLCODE000,I001000700000752.1.1,,React learning,UnBilled Work,,,,,
+IN10,3153727,29/10/20,7,11:00:00,18:00:00,BILLCODE000,I001000700000752.1.1,,React learning,UnBilled Work,,,,,
+IN20,3147602,15/10/20,4,14:00:00,18:00:00,BILLCODE000,I001000700000752.1.1,,Web Configurator,UnBilled Work,,,,,
